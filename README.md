@@ -3,13 +3,6 @@
 <p align="center"> Esse projeto foi feito em um evento gratuito, promovido pela Rocketseat</p>
 
 
-<p align="center">
-    <a href="#-tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#memo-licença">Licença</a>
-</p>
-
 </br>
 
 <p align="center">
@@ -30,22 +23,14 @@ Foi utilizado nesse projeto as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
----
-
 ## Projeto
 
 O projeto é uma pagina que mostre os jogos da copa do mundo de 2022
-
----
 
 ## Layout
 
 Voce pode visualizar e layout desse projeto através [DESSE LINK](https://www.figma.com/file/TaZXY3mO3IjhESbh6zGVZq/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1). É necessario ter conta no [Figma](https://figma.com) para acessá-lo.
 
----
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT
-
----
