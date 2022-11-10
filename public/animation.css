@@ -1,0 +1,35 @@
+.card h2:hover,
+.card ul li strong:hover,
+.card ul li img:hover {
+    transform: scale(1.1);
+}
+
+.card h2,
+.card ul li strong,
+.card ul li img {
+    transition: transform 0.3s;
+}
+
+.card {
+    opacity: 0;
+    animation: appear .2s forwards;
+}
+
+@keyframes appear {
+    0% {
+        transform: translateY(-5.0rem);
+        opacity: 0;
+    }    
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@media(min-width: 700px){
+    #cards {
+        max-width:67rem ;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}

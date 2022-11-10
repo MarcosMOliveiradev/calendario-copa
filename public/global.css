@@ -1,0 +1,34 @@
+* {
+    /* resete do html */
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html {
+    color: white;
+
+    --card-color-prymary: #F7DD43;
+    --card-border-color: #746615;
+    --card-bg-color: #1d1c19;
+    --bg: url(../src/img/bg-yello.svg);
+
+    /* 1rem = 16px (User Agent) = 100% */
+    font-size: 62.5%; /* = 10px */
+}
+
+body.blue{
+    --card-color-prymary: #338AF3;
+    --card-border-color: #338AF3;
+    --card-bg-color: #202024;
+    --bg: url(../src/img/bg-blue.svg);
+}
+
+body.green{
+    --card-color-prymary: #047c3f;
+    --card-border-color: #047c3f;
+    --card-bg-color: #1a1f1b;
+    --bg: url(../src/img/bg-green.svg);
+}
