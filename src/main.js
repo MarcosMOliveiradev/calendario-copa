@@ -2,9 +2,9 @@
 const game = (player1 , hour, player2) => {
     return`
     <li>
-        <img src="../src/img/icon-${player1}.svg" alt="Bandeira do ${player1}">
+        <img src="./src/img/icon-${player1}.svg" alt="Bandeira do ${player1}">
         <strong>${hour}</strong>
-        <img src="../src/img/icon-${player2}.svg" alt="Bandeira da ${player2}">
+        <img src="./src/img/icon-${player2}.svg" alt="Bandeira da ${player2}">
     </li>
     `
 }
